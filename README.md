@@ -15,7 +15,7 @@ npm install gulp -D
 
 touch gulpfile.js
 
-gulp --help
 
+Have a look at this link for the contents of a typical gulp file
 
 https://www.npmjs.com/package/gulp
